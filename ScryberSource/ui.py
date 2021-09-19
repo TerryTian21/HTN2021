@@ -14,7 +14,7 @@ if getattr(sys, 'frozen', False):
     pytesseract.pytesseract.tesseract_cmd =_path
     # the .exe will look here
 else:
-    pytesseract.pytesseract.tesseract_cmd = r'' # Absolute path to tesseract.exe 
+    pytesseract.pytesseract.tesseract_cmd = r'' # Absolute path to tesseract.exe goes here.
 
 
 class NotePad(QtWidgets.QWidget):
