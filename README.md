@@ -1,6 +1,6 @@
 # Welcome to our HTN2021 Project
 
-This projects aims to translate hand written characters into text files. Scryber lets you write directly into the program with a tablet, or use your mouse to write notes, and have the program auto-translate your writing into text. The application can either be run vai the executable file within the Scryber folder. The source code will allow you to run the program as well, but in order to run the program, Tesseract must be installed (both through pip and separately onto the disk.)
+This projects aims to translate hand written characters into text files. Scryber lets you write directly into the program with a tablet, or use your mouse to write notes, and have the program auto-translate your writing into text. The application can either be run vai the executable file within the Scryber.zip folder linked below, or via the source code. The source code will allow you to run the program as well, but in order to run the program, Tesseract must be installed (both through pip and separately onto the disk.)
 
 ## Usage
 
