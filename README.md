@@ -7,4 +7,4 @@ This projects aims to translate hand written characters into text files. Scryber
 Go to https://digi.bib.uni-mannheim.de/tesseract/ and find the appropriate version for your operating system.
 For windows 64-bit, install: tesseract-ocr-w64-setup-v4.1.0.20190314.exe
 
-After the installation, edit the 
+After installing, edit the ui.py file and set """pytesseract.pytesseract.tesseract_cmd""" equal to the absolute path to the tesseract.exe file within the installation.
